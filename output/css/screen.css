@@ -1,0 +1,66 @@
+body {
+  color: #666666;
+  background: #333 url(/images/pink_flower_pattern.jpg); }
+
+a {
+  color: #811236;
+  text-decoration: none; }
+  a:hover {
+    color: #c73765; }
+  a:visited {
+    color: #811236; }
+    a:visited:hover {
+      color: #c73765; }
+
+.container_12 {
+  background: #fff; }
+
+#header {
+  background: #c73765;
+  padding: 20px 0px;
+  height: 100px;
+  margin: 0; }
+  #header h1 {
+    font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Lucida, Geneva, Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 5em; }
+  #header p {
+    margin: -40px 0 0 255px;
+    font-family: monospace; }
+  #header a, #header a:hover, #header a:visited {
+    color: #c73765;
+    text-decoration: none; }
+
+div#navigation ul {
+  margin: 0;
+  float: left;
+  width: 100%; }
+div#navigation ul li {
+  list-style: none;
+  text-align: center;
+  display: inline; }
+  div#navigation ul li a, div#navigation ul li a:visited {
+    color: white;
+    background-color: #95445e;
+    width: 165px;
+    float: left;
+    padding: 0.2em 1em;
+    border-right: 0.1em solid white;
+    text-decoration: none; }
+    div#navigation ul li a:hover,     div#navigation ul li a:visited:hover {
+      background-color: #e3688f; }
+div#navigation ul li#last a {
+  border-color: #95445e; }
+  div#navigation ul li#last a:hover {
+    border-color: #e3688f; }
+
+#body {
+  background: #fff;
+  margin: 20px 0px;
+  padding: 20px 0px; }
+  #body h2 {
+    color: #c73765; }
+
+#footer {
+  text-align: center;
+  color: #c73765; }

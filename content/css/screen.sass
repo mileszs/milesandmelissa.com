@@ -1,0 +1,114 @@
+---
+extension:  css
+filter:     sass
+layout:     nil
+---
+
+// color constants
+!white = #fff
+!dark_grey = #333
+!medium_grey = #666
+!light_grey = #999
+!watermelon = #c73765
+!darker_pink = #95445e
+!darkest_pink = #811236
+!lighter_pink = #e3688f
+!lightest_pink = #e389a6
+
+body
+  :color = !medium_grey
+  :background #333 url(/images/pink_flower_pattern.jpg)
+
+a
+  :color = !darkest_pink
+  :text-decoration none
+
+  &:hover
+    :color = !watermelon
+
+  &:visited
+    :color = !darkest_pink
+
+    &:hover
+      :color = !watermelon
+
+// Displays the grid in the background
+.container_12
+  :background #fff
+  // :border-left = 4px "solid" !light_blue
+  // :border-right = 4px "solid" !light_blue
+  // :border-bottom = 4px "solid" !light_blue
+  // :background #fff url(../images/12_col.gif) repeat-y
+
+// hr
+//   :color = !really_light_blue
+//   :background-color = !really_light_blue
+//   :margin-top 20px
+//   :margin-bottom 20px
+//   :clear both
+//   :height 5px
+//   :width 85%
+
+// header
+#header
+  :background = !watermelon
+  :padding 20px 0px
+  :height 100px
+  :margin 0
+
+  h1
+    :font-family 'Trebuchet MS', 'Lucida Grande', Verdana, Lucida, Geneva, Helvetica, Arial, sans-serif
+    :color = !white
+    :font-size 5em
+
+  p
+    :margin -40px 0 0 255px
+    :font-family monospace
+
+  a, a:hover, a:visited
+    :color = !watermelon
+    :text-decoration none
+
+
+div#navigation
+
+  ul
+    :margin 0
+    :float left
+    :width 100%
+
+  ul li
+    :list-style none
+    :text-align center
+    :display inline
+
+    a, a:visited
+      :color = !white
+      :background-color = !darker_pink
+      :width 165px
+      :float left
+      :padding 0.2em 1em
+      :border-right = 0.1em "solid" !white
+      :text-decoration none
+
+      &:hover
+        :background-color = !lighter_pink
+
+  ul li#last a
+    :border-color #95445e
+
+    &:hover
+      :border-color = !lighter_pink
+
+#body
+  :background #fff
+  :margin 20px 0px
+  :padding 20px 0px
+
+  h2
+    :color = !watermelon
+
+#footer
+  :text-align center
+  :color = !watermelon
+
