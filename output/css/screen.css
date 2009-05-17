@@ -13,7 +13,10 @@ a {
       color: #c73765; }
 
 .container_12 {
-  background: #fff; }
+  background: #fff;
+  border-left: 4px solid #e389a6;
+  border-right: 4px solid #e389a6;
+  border-bottom: 4px solid #e389a6; }
 
 #header {
   background: #c73765;
@@ -47,7 +50,7 @@ div#navigation ul li {
     padding: 0.2em 1em;
     border-right: 0.1em solid white;
     text-decoration: none; }
-    div#navigation ul li a:hover,     div#navigation ul li a:visited:hover {
+    div#navigation ul li a:hover, div#navigation ul li a:visited:hover {
       background-color: #e3688f; }
 div#navigation ul li#last a {
   border-color: #95445e; }
@@ -60,7 +63,11 @@ div#navigation ul li#last a {
   padding: 20px 0px; }
   #body h2 {
     color: #c73765; }
+  #body .center {
+    text-align: center; }
 
 #footer {
   text-align: center;
   color: #c73765; }
+  #footer p {
+    border-top: 1px solid #999; }

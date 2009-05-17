@@ -1,0 +1,12 @@
+---
+title:      Registry
+created_at: 2009-05-16 22:22:02.690616 -04:00
+filter:
+  - erb
+  - textile
+---
+h1. <%= h(@page.title) %>
+
+*  "Target":https://www.target.com/registry/wedding/21Z52PHT9KK8H
+*  "Bed, Bath, and Beyond":http://www.bedbathandbeyond.com/regGiftRegistry.asp?order_num=-1&wrn=-1622982680
+*  "Crate & Barrel":http://www.crateandbarrel.com/Gift-Registry/Guest/ViewRegistry.aspx?grid=4282876

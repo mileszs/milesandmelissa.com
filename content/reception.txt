@@ -1,0 +1,12 @@
+---
+title:      Reception
+created_at: 2009-05-16 22:02:46.821447 -04:00
+filter:
+  - erb
+  - textile
+---
+h1. <%= h(@page.title) %>
+
+The reception will be held immediately following "the ceremony":/ceremony.html at The Monon Center East just off 111th Street in Carmel.
+
+p(center). <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1235+Central+Park+Drive+East+Carmel+IN+46032&amp;sll=39.917175,-86.116333&amp;sspn=0.019946,0.047164&amp;ie=UTF8&amp;ll=39.9712,-86.127491&amp;spn=0.079745,0.188656&amp;z=13&amp;iwloc=A&amp;cid=12964441383999682796&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=1235+Central+Park+Drive+East+Carmel+IN+46032&amp;sll=39.917175,-86.116333&amp;sspn=0.019946,0.047164&amp;ie=UTF8&amp;ll=39.9712,-86.127491&amp;spn=0.079745,0.188656&amp;z=13&amp;iwloc=A&amp;cid=12964441383999682796" style="color:#0000FF;text-align:left">View Larger Map</a></small>
