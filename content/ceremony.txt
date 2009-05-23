@@ -5,7 +5,7 @@ filter:
   - erb
   - textile
 ---
-h1. <%= h(@page.title) %>
+h2. <%= h(@page.title) %>
 
 The ceremony will take place at 3:00PM on Sunday, September 6th inside "Union Chapel United Methodist Church":http://unionchapelnora.org/, located on 86th St. in Indianapolis.
 

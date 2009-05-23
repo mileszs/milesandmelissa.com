@@ -5,7 +5,7 @@ filter:
   - erb
   - textile
 ---
-h1. <%= h(@page.title) %>
+h2. <%= h(@page.title) %>
 
 The reception will be held immediately following "the ceremony":/ceremony.html at The Monon Center East just off 111th Street in Carmel.
 

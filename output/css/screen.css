@@ -19,7 +19,7 @@ a {
   border-bottom: 4px solid #e389a6; }
 
 #header {
-  background: #c73765;
+  background: #c73765 url(/images/watermelon-texture.jpg);
   padding: 20px 0px;
   height: 100px;
   margin: 0; }
@@ -62,7 +62,8 @@ div#navigation ul li#last a {
   margin: 20px 0px;
   padding: 20px 0px; }
   #body h2 {
-    color: #c73765; }
+    color: #c73765;
+    margin-left: -1em; }
   #body .center {
     text-align: center; }
 

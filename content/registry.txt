@@ -5,7 +5,7 @@ filter:
   - erb
   - textile
 ---
-h1. <%= h(@page.title) %>
+h2. <%= h(@page.title) %>
 
 *  "Target":https://www.target.com/registry/wedding/21Z52PHT9KK8H
 *  "Bed, Bath, and Beyond":http://www.bedbathandbeyond.com/regGiftRegistry.asp?order_num=-1&wrn=-1622982680
