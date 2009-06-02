@@ -7,12 +7,20 @@ filter:
 ---
 h2. <%= h(@page.title) %>
 
-We're both from Indiana.
+!>/images/melissa_with_the_tongue.jpg(Melissa and her tongue)!
 
 h3. Melissa
 
-She's crazy.
+Melissa was born in Nebraska, but spent most of her life in Lafayette, Indiana. She worked at Marsh and went to school for a really, really long time.  Really.  Marsh, school, Marsh, school.  It was exhausting to observe.  
+
+She graduated from Purdue University with degree in Nursing in May of 2008.  Since then, she's been working in the Oncology department at St. Vincent's Hospital on 86th St. in Indianapolis. 
+
+<br style="clear:both;" />
+
+!>/images/me_with_the_tongue_again.jpg(Miles and his tongue, again)!
 
 h3. Miles
 
-He's nuts.
+Miles grew up in the middle of nothing somewhere in Cass County, Indiana.  (Beautiful place, the middle of nothing.)  That's not entirely accurate.  He has yet to really grow up.
+
+Miles learned to be real good with those computer machines.  He now works at nFrame in Carmel, Indiana, as a programmer.  

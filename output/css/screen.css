@@ -13,10 +13,11 @@ a {
       color: #c73765; }
 
 .container_12 {
+  margin-top: 2em;
   background: #fff;
-  border-left: 4px solid #e389a6;
-  border-right: 4px solid #e389a6;
-  border-bottom: 4px solid #e389a6; }
+  border: 4px solid #95445e; }
+  .container_12 p img {
+    padding: 1em; }
 
 #header {
   background: #c73765 url(/images/watermelon-texture.jpg);
@@ -43,9 +44,10 @@ div#navigation ul li {
   text-align: center;
   display: inline; }
   div#navigation ul li a, div#navigation ul li a:visited {
+    font-size: 20px;
     color: white;
     background-color: #95445e;
-    width: 165px;
+    width: 150px;
     float: left;
     padding: 0.2em 1em;
     border-right: 0.1em solid white;
@@ -63,12 +65,19 @@ div#navigation ul li#last a {
   padding: 20px 0px; }
   #body h2 {
     color: #c73765;
-    margin-left: -1em; }
+    margin: 1em 0 0.2em -1em;
+    font-size: 3em; }
   #body .center {
     text-align: center; }
+  #body p {
+    font-size: 110%; }
+
+#registry {
+  margin-top: 2em;
+  text-align: center; }
 
 #footer {
   text-align: center;
-  color: #c73765; }
+  color: #666666; }
   #footer p {
     border-top: 1px solid #999; }
