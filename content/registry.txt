@@ -7,7 +7,7 @@ filter:
 ---
 
 <div id="registry">
-  !/images/crate_and_barrel_logo.png!:https://www.target.com/registry/wedding/21Z52PHT9KK8H
+  !/images/crate_and_barrel_logo.png!:http://www.crateandbarrel.com/Gift-Registry/Guest/ViewRegistry.aspx?grid=4282876
   !/images/bedbathbeyond_logo.png!:http://www.bedbathandbeyond.com/regGiftRegistry.asp?order_num=-1&wrn=-1622982680
-  !/images/target_logo.png!:http://www.crateandbarrel.com/Gift-Registry/Guest/ViewRegistry.aspx?grid=4282876
+  !/images/target_logo.png!:https://www.target.com/registry/wedding/21Z52PHT9KK8H
 </div>
