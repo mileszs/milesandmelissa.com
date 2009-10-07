@@ -7,13 +7,13 @@ filter:
 
 h2. Welcome
 
-!>/images/tongue_at_indians_game.jpg(My Tonue at the Indians Game)! 
+!>/images/tongue_at_indians_game.jpg(My Tonue at the Indians Game)!
 
-Miles and Melissa are getting married!
+Miles and Melissa <span class="strike">are getting</span> got married!  Check out <a href="http://www.chrischeever.com/?p=392">these pictures on our photographer Chris Cheever's website</a>.
 
 After what _some_ people may have believed to be an interminably long courtship, Miles and Melissa are _finally_ tying the knot.  And soon!
 
-The whole thing will happen on *September 6th, 2009*.  Yes, that is a Sunday -- the Sunday before Labor Day Monday.  So, it's like a Saturday.  It'll be in Indianapolis.  You can find out more visiting "the ceremony":/ceremony.html and "the reception":/reception.html pages.  
+The whole thing will happen on *September 6th, 2009*.  Yes, that is a Sunday -- the Sunday before Labor Day Monday.  So, it's like a Saturday.  It'll be in Indianapolis.  You can find out more visiting "the ceremony":/ceremony.html and "the reception":/reception.html pages.
 
 On December 25th, at way-too-early o'clock in the morning, I, Miles, proposed next to the Christmas tree, simultaneously bringing unparalleled joy to us both and making every Christmas for the rest of our lives relatively lame.  Nonetheless, we're both very excited!  (Seriously, I think we planned half the wedding on the various car rides to visit family that day.  It's the most work I've done to help with the wedding thus far.)
 
