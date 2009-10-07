@@ -20,7 +20,7 @@ a {
     padding: 1em; }
 
 #header {
-  background: #c73765 url(/images/watermelon-texture.jpg);
+  background: #c73765 url('/images/watermelon-texture.jpg');
   padding: 20px 0px;
   height: 100px;
   margin: 0; }
@@ -81,3 +81,6 @@ div#navigation ul li#last a {
   color: #666666; }
   #footer p {
     border-top: 1px solid #999; }
+
+.strike {
+  text-decoration: line-through; }
